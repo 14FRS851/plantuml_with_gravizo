@@ -24,4 +24,4 @@ More about PlantUML:
 
 ## Test with sprites icon
 
-![Alt text](https://raw.githubusercontent.com/14FRS851/plantuml_with_gravizo/master/plantuml-icon-font-sprites.plantuml)
+![Alt text](https://g.gravizo.com/source/svg?https://raw.githubusercontent.com/14FRS851/plantuml_with_gravizo/master/plantuml-icon-font-sprites.plantuml)
